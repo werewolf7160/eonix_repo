@@ -1,0 +1,15 @@
+C:\Users\Gautier\Source\Repos\werewolf7160\Eonix_test\bin\Debug\net8.0\Circus.exe
+C:\Users\Gautier\Source\Repos\werewolf7160\Eonix_test\bin\Debug\net8.0\Circus.deps.json
+C:\Users\Gautier\Source\Repos\werewolf7160\Eonix_test\bin\Debug\net8.0\Circus.runtimeconfig.json
+C:\Users\Gautier\Source\Repos\werewolf7160\Eonix_test\bin\Debug\net8.0\Circus.dll
+C:\Users\Gautier\Source\Repos\werewolf7160\Eonix_test\bin\Debug\net8.0\Circus.pdb
+C:\Users\Gautier\Source\Repos\werewolf7160\Eonix_test\obj\Debug\net8.0\Circus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gautier\Source\Repos\werewolf7160\Eonix_test\obj\Debug\net8.0\Circus.AssemblyInfoInputs.cache
+C:\Users\Gautier\Source\Repos\werewolf7160\Eonix_test\obj\Debug\net8.0\Circus.AssemblyInfo.cs
+C:\Users\Gautier\Source\Repos\werewolf7160\Eonix_test\obj\Debug\net8.0\Circus.csproj.CoreCompileInputs.cache
+C:\Users\Gautier\Source\Repos\werewolf7160\Eonix_test\obj\Debug\net8.0\Circus.sourcelink.json
+C:\Users\Gautier\Source\Repos\werewolf7160\Eonix_test\obj\Debug\net8.0\Circus.dll
+C:\Users\Gautier\Source\Repos\werewolf7160\Eonix_test\obj\Debug\net8.0\refint\Circus.dll
+C:\Users\Gautier\Source\Repos\werewolf7160\Eonix_test\obj\Debug\net8.0\Circus.pdb
+C:\Users\Gautier\Source\Repos\werewolf7160\Eonix_test\obj\Debug\net8.0\Circus.genruntimeconfig.cache
+C:\Users\Gautier\Source\Repos\werewolf7160\Eonix_test\obj\Debug\net8.0\ref\Circus.dll
