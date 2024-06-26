@@ -38,18 +38,6 @@ public class Person
         Surname = surname;
     }
 
-
-
     #endregion
-
-    #region Method
-
-
-    #endregion
-
-    #region Inherited
-
-    #endregion
-
 
 }
