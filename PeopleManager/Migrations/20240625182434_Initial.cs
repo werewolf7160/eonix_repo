@@ -12,7 +12,7 @@ namespace PeopleManager.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Persons",
+                name: "People",
                 columns: table => new
                 {
                     Id = table.Column<Guid>(type: "TEXT", nullable: false),
@@ -29,7 +29,7 @@ namespace PeopleManager.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Persons");
+                name: "People");
         }
     }
 }

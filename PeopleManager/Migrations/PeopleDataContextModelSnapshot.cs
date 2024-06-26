@@ -33,7 +33,7 @@ namespace PeopleManager.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Persons");
+                    b.ToTable("People");
                 });
 #pragma warning restore 612, 618
         }

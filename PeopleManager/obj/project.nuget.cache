@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TDzo1rQdrdc=",
+  "dgSpecHash": "flRt4+CR3NM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gautier\\source\\repos\\werewolf7160\\PeopleManager\\PeopleManager.csproj",
+  "projectFilePath": "C:\\Users\\Gautier\\source\\repos\\werewolf7160\\EonixRepo\\PeopleManager\\PeopleManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gautier\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -69,6 +69,7 @@
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.codeanalysis.razor\\6.0.24\\microsoft.codeanalysis.razor.6.0.24.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.codeanalysis.scripting.common\\4.8.0\\microsoft.codeanalysis.scripting.common.4.8.0.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\4.8.0\\microsoft.codeanalysis.workspaces.common.4.8.0.nupkg.sha512",
+    "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.6\\microsoft.data.sqlite.core.8.0.6.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.diasymreader\\2.0.0\\microsoft.diasymreader.2.0.0.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.dotnet.scaffolding.shared\\8.0.2\\microsoft.dotnet.scaffolding.shared.8.0.2.nupkg.sha512",
@@ -76,6 +77,7 @@
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.6\\microsoft.entityframeworkcore.analyzers.8.0.6.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.6\\microsoft.entityframeworkcore.design.8.0.6.nupkg.sha512",
+    "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.6\\microsoft.entityframeworkcore.inmemory.8.0.6.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.6\\microsoft.entityframeworkcore.relational.8.0.6.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\8.0.6\\microsoft.entityframeworkcore.sqlite.8.0.6.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\8.0.6\\microsoft.entityframeworkcore.sqlite.core.8.0.6.nupkg.sha512",
@@ -92,7 +94,10 @@
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.net.stringtools\\17.8.3\\microsoft.net.stringtools.17.8.3.nupkg.sha512",
+    "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\microsoft.net.test.sdk.17.10.0.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0\\microsoft.testplatform.objectmodel.17.10.0.nupkg.sha512",
+    "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0\\microsoft.testplatform.testhost.17.10.0.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\8.0.2\\microsoft.visualstudio.web.codegeneration.8.0.2.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\8.0.2\\microsoft.visualstudio.web.codegeneration.core.8.0.2.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\8.0.2\\microsoft.visualstudio.web.codegeneration.design.8.0.2.nupkg.sha512",
@@ -147,7 +152,15 @@
     "C:\\Users\\Gautier\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\Gautier\\.nuget\\packages\\system.threading.tasks.dataflow\\7.0.0\\system.threading.tasks.dataflow.7.0.0.nupkg.sha512",
-    "C:\\Users\\Gautier\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+    "C:\\Users\\Gautier\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gautier\\.nuget\\packages\\xunit\\2.8.1\\xunit.2.8.1.nupkg.sha512",
+    "C:\\Users\\Gautier\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\Gautier\\.nuget\\packages\\xunit.analyzers\\1.14.0\\xunit.analyzers.1.14.0.nupkg.sha512",
+    "C:\\Users\\Gautier\\.nuget\\packages\\xunit.assert\\2.8.1\\xunit.assert.2.8.1.nupkg.sha512",
+    "C:\\Users\\Gautier\\.nuget\\packages\\xunit.core\\2.8.1\\xunit.core.2.8.1.nupkg.sha512",
+    "C:\\Users\\Gautier\\.nuget\\packages\\xunit.extensibility.core\\2.8.1\\xunit.extensibility.core.2.8.1.nupkg.sha512",
+    "C:\\Users\\Gautier\\.nuget\\packages\\xunit.extensibility.execution\\2.8.1\\xunit.extensibility.execution.2.8.1.nupkg.sha512",
+    "C:\\Users\\Gautier\\.nuget\\packages\\xunit.runner.visualstudio\\2.8.1\\xunit.runner.visualstudio.2.8.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -11,7 +11,7 @@ public class PeopleDataContext : DbContext
 
     #region Property
 
-    public DbSet<Person> Persons { get; set; }
+    public DbSet<Person> People { get; set; }
 
     #endregion
 

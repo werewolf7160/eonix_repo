@@ -24,9 +24,9 @@ namespace PeopleManager.Controllers
         /// <param name="filterSurname">Surname used to filter, not case sensitive</param>
         /// <returns></returns>
         [HttpGet]
-        public ActionResult<IEnumerable<Person>> GetPersons([FromQuery] string? filterName, [FromQuery] string? filterSurname)
+        public ActionResult<IEnumerable<Person>> GetPeople([FromQuery] string? filterName, [FromQuery] string? filterSurname)
         {
-            var peopleQuery = _context.Persons.AsQueryable();
+            var peopleQuery = _context.People.AsQueryable();
             if (!string.IsNullOrEmpty(filterName))
                 peopleQuery = peopleQuery.Where(x => x.Name.ToLower().Contains(filterName.ToLower()));
 
@@ -39,7 +39,7 @@ namespace PeopleManager.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<Person>> GetPerson(Guid id)
         {
-            var person = await _context.Persons.FindAsync(id);
+            var person = await _context.People.FindAsync(id);
 
             if (person == null)
             {
@@ -97,7 +97,7 @@ namespace PeopleManager.Controllers
             }
             if (string.IsNullOrEmpty(person.Name)) return BadRequest($"Name of person can't be null or empty");
             if (string.IsNullOrEmpty(person.Surname)) return BadRequest($"Surname of person can't be null or empty");
-            _context.Persons.Add(person);
+            _context.People.Add(person);
             await _context.SaveChangesAsync();
 
             return CreatedAtAction("GetPerson", new { id = person.Id }, person);
@@ -107,13 +107,13 @@ namespace PeopleManager.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeletePerson(Guid id)
         {
-            var person = await _context.Persons.FindAsync(id);
+            var person = await _context.People.FindAsync(id);
             if (person == null)
             {
                 return NotFound();
             }
 
-            _context.Persons.Remove(person);
+            _context.People.Remove(person);
             await _context.SaveChangesAsync();
 
             return NoContent();
@@ -121,7 +121,7 @@ namespace PeopleManager.Controllers
 
         private bool PersonExists(Guid id)
         {
-            return _context.Persons.Any(e => e.Id == id);
+            return _context.People.Any(e => e.Id == id);
         }
     }
 }

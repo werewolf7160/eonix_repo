@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0a1c2431_002D1c5c_002D49d5_002Dacb0_002D46f80235eb49/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetAllPeopleFilteredBySurnameSameCase" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::15ACC275-371D-4348-A9D9-9BB38A4E8EAE::net8.0::PeopleManager.PeopleManager.Tests.UnitTest1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=31f88990_002D51d9_002D4a44_002D9555_002D196fdfce535b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetOnePeople" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::15ACC275-371D-4348-A9D9-9BB38A4E8EAE::net8.0::PeopleManager.PeopleManager.Tests.UnitTest1.GetOnePeople&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ae46c1ba_002D3cbf_002D4d91_002Da131_002Dc291471ad4f1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UpdatePersonNullSurname" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::15ACC275-371D-4348-A9D9-9BB38A4E8EAE::net8.0::PeopleManager.PeopleManager.Tests.UnitTest1.UpdatePersonNullSurname&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e053f0db_002Daffe_002D44dc_002Da711_002D04fbfc1bd70e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAllPeople" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::15ACC275-371D-4348-A9D9-9BB38A4E8EAE::net8.0::PeopleManager.PeopleManager.Tests.UnitTest1.GetAllPeople&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::15ACC275-371D-4348-A9D9-9BB38A4E8EAE::net8.0::PeopleManager.PeopleManager.Tests.UnitTest1.GetOnePeople&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::15ACC275-371D-4348-A9D9-9BB38A4E8EAE::net8.0::PeopleManager.PeopleManager.Tests.UnitTest1.GetAllPeopleFilteredByNameSameCase&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::15ACC275-371D-4348-A9D9-9BB38A4E8EAE::net8.0::PeopleManager.PeopleManager.Tests.UnitTest1.GetAllPeopleFilteredByNameDifferentCase&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::15ACC275-371D-4348-A9D9-9BB38A4E8EAE::net8.0::PeopleManager.PeopleManager.Tests.UnitTest1.GetAllPeopleFilteredBySurnameDifferentCase&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
