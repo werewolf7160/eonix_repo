@@ -26,7 +26,7 @@ public class Tamer
         Console.WriteLine(new string('-',str.Length));
         Console.WriteLine();
 
-        foreach (var trick in _tamedAnimal.Tricks)
+        foreach (var trick in _tamedAnimal.GetTricks())
         {
             _tamedAnimal.PerformTrick(trick);
             switch (trick)

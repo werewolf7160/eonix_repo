@@ -2,6 +2,14 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0a1c2431_002D1c5c_002D49d5_002Dacb0_002D46f80235eb49/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetAllPeopleFilteredBySurnameSameCase" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::15ACC275-371D-4348-A9D9-9BB38A4E8EAE::net8.0::PeopleManager.PeopleManager.Tests.UnitTest1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ABD6AC6C-9051-4C5F-A7B5-4C19A8052196::net8.0::Circus.Tests.Monkey_UnitTest.GetAllTrick&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ABD6AC6C-9051-4C5F-A7B5-4C19A8052196::net8.0::Circus.Tests.Monkey_UnitTest.GetOneTrick&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ABD6AC6C-9051-4C5F-A7B5-4C19A8052196::net8.0::Circus.Tests.Monkey_UnitTest.GetOneTrickOutOfRange&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ABD6AC6C-9051-4C5F-A7B5-4C19A8052196::net8.0::Circus.Tests.Monkey_UnitTest.AddTrick&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ABD6AC6C-9051-4C5F-A7B5-4C19A8052196::net8.0::Circus.Tests.Monkey_UnitTest.UpdateTrick&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ABD6AC6C-9051-4C5F-A7B5-4C19A8052196::net8.0::Circus.Tests.Monkey_UnitTest.IsTrickExistNonExistingValue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ABD6AC6C-9051-4C5F-A7B5-4C19A8052196::net8.0::Circus.Tests.Monkey_UnitTest.IsTrickExistExistingValue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ABD6AC6C-9051-4C5F-A7B5-4C19A8052196::net8.0::Circus.Tests.Monkey_UnitTest.RemoveTrick&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=31f88990_002D51d9_002D4a44_002D9555_002D196fdfce535b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetOnePeople" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
